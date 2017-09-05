@@ -1,0 +1,3 @@
+2017-07-04 10:57:51.112  INFO 45469 --- [           main] org.myproject.Application  : CustomerId: 123456789 PlaybackAction: Start
+2017-07-04 10:57:52.134  INFO 45469 --- [           main] org.myproject.Application  : CustomerId: 123456789 PlaybackAction: Stop
+2017-07-04 10:57:52.955  INFO 45469 --- [           main] org.myproject.Application  : CustomerId: 123456789 PlaybackAction: Start
